@@ -597,6 +597,9 @@
                 "mainImageJpg": "img/products/Running/5.jpg",
                 "mainImageWebp": "img/products/Running/5.webp",
                 "mainImageAlt": "Беговая дорожка",
+                "customerName": "Артем Иванов",
+                "when": "15 минут назад",
+                "where": "Москва",
                 "galleryJpg":[
                     "img/products/Running/5.jpg",
                     "img/products/Running/2.jpg",
@@ -625,6 +628,9 @@
                 "mainImageJpg": "img/products/Elipse/1.jpg",
                 "mainImageWebp": "img/products/Elipse/1.webp",
                 "mainImageAlt": "Эллиптический тренажер",
+                "customerName": "Анна Филатова",                
+                "when": "15 минут назад",
+                "where": "Санкт-Петербург",
                 "galleryJpg":[
                     "img/products/Elipse/1.jpg",
                     "img/products/Tennis/1/2.jpg",
@@ -653,6 +659,9 @@
                 "mainImageJpg": "img/products/Tennis/1/2.jpg",
                 "mainImageWebp": "img/products/Tennis/1/2.webp",
                 "mainImageAlt": "Домашний теннисный стол",
+                "customerName": "Роман Петров",                
+                "when": "10 минут назад",
+                "where": "Краснодар",
                 "galleryJpg":[
                     "img/products/Tennis/1/2.jpg",
                     "img/products/Tennis/1/1.jpg",
