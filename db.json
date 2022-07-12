@@ -1354,7 +1354,7 @@
         "reviews": [
             {
                 "id": 0,
-                "title": "Mark Smith",
+                "name": "Mark Smith",
                 "mainImageJpg": "img/reviews/01.jpg",
                 "mainImageWebp": "img/reviews/01.webp",
                 "mainImageAlt": "User's Photo",                
